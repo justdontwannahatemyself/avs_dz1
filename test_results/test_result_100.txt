@@ -1,0 +1,102 @@
+Sorted container: 
+Container contains 100 elements.
+1 :It's beast. Name is s Meal is herbivores, weight is 898788, fraction is 0.000110 
+2 :It's fish. Name is qh Area is lake, weight is 937461, fraction is 0.000199 
+3 :It's a bird. Name is ed, has ability migrate, weight is 785315, fraction is 0.000218 
+4 :It's fish. Name is ly Area is lake, weight is 899895, fraction is 0.000221 
+5 :It's fish. Name is e Area is sea, weight is 311871, fraction is 0.000221 
+6 :It's a bird. Name is qo, has ability migrate, weight is 835571, fraction is 0.000232 
+7 :It's a bird. Name is of, hasn't ability migrate, weight is 776109, fraction is 0.000236 
+8 :It's a bird. Name is dv, hasn't ability migrate, weight is 770251, fraction is 0.000244 
+9 :It's fish. Name is ju Area is lake, weight is 775812, fraction is 0.000249 
+10 :It's a bird. Name is ho, has ability migrate, weight is 738975, fraction is 0.000250 
+11 :It's beast. Name is jm Meal is predator, weight is 776146, fraction is 0.000259 
+12 :It's beast. Name is yw Meal is predator, weight is 814814, fraction is 0.000277 
+13 :It's beast. Name is vi Meal is insectivores, weight is 655779, fraction is 0.000319 
+14 :It's a bird. Name is vi, has ability migrate, weight is 508615, fraction is 0.000379 
+15 :It's beast. Name is x Meal is insectivores, weight is 259038, fraction is 0.000401 
+16 :It's fish. Name is niyj Area is sea, weight is 996715, fraction is 0.000417 
+17 :It's beast. Name is b Meal is insectivores, weight is 195537, fraction is 0.000419 
+18 :It's beast. Name is mwk Meal is insectivores, weight is 743775, fraction is 0.000434 
+19 :It's beast. Name is yy Meal is predator, weight is 488480, fraction is 0.000467 
+20 :It's a bird. Name is jenk, has ability migrate, weight is 804105, fraction is 0.000495 
+21 :It's fish. Name is j Area is sea, weight is 138632, fraction is 0.000534 
+22 :It's fish. Name is dhbo Area is river, weight is 691873, fraction is 0.000559 
+23 :It's fish. Name is mvabh Area is lake, weight is 821568, fraction is 0.000611 
+24 :It's a bird. Name is pgv, hasn't ability migrate, weight is 492127, fraction is 0.000620 
+25 :It's a bird. Name is xtt, has ability migrate, weight is 514179, fraction is 0.000630 
+26 :It's a bird. Name is kym, has ability migrate, weight is 490335, fraction is 0.000630 
+27 :It's a bird. Name is up, has ability migrate, weight is 308778, fraction is 0.000644 
+28 :It's fish. Name is evas Area is river, weight is 628324, fraction is 0.000645 
+29 :It's fish. Name is eqxrew Area is river, weight is 978297, fraction is 0.000660 
+30 :It's a bird. Name is imbmco, hasn't ability migrate, weight is 905774, fraction is 0.000672 
+31 :It's a bird. Name is yioxiy, hasn't ability migrate, weight is 967633, fraction is 0.000683 
+32 :It's a bird. Name is tiprwb, has ability migrate, weight is 923266, fraction is 0.000695 
+33 :It's a bird. Name is tqieok, hasn't ability migrate, weight is 905921, fraction is 0.000697 
+34 :It's beast. Name is uifot Meal is insectivores, weight is 770477, fraction is 0.000705 
+35 :It's fish. Name is vmdxu Area is lake, weight is 761507, fraction is 0.000709 
+36 :It's a bird. Name is pdqmpp, has ability migrate, weight is 846321, fraction is 0.000751 
+37 :It's beast. Name is kgfn Meal is predator, weight is 529197, fraction is 0.000779 
+38 :It's beast. Name is ctjr Meal is predator, weight is 496722, fraction is 0.000856 
+39 :It's a bird. Name is vahge, hasn't ability migrate, weight is 581817, fraction is 0.000858 
+40 :It's beast. Name is dcsbiph Meal is herbivores, weight is 841847, fraction is 0.000866 
+41 :It's a bird. Name is rnawkipm, hasn't ability migrate, weight is 953541, fraction is 0.000897 
+42 :It's a bird. Name is fjmwgol, hasn't ability migrate, weight is 815965, fraction is 0.000904 
+43 :It's beast. Name is ucoyucp Meal is insectivores, weight is 835535, fraction is 0.000924 
+44 :It's beast. Name is tcbpggci Meal is predator, weight is 872829, fraction is 0.000954 
+45 :It's a bird. Name is cav, has ability migrate, weight is 294604, fraction is 0.000971 
+46 :It's fish. Name is jouhawr Area is river, weight is 765638, fraction is 0.000977 
+47 :It's a bird. Name is arh, has ability migrate, weight is 293176, fraction is 0.000979 
+48 :It's fish. Name is hijrb Area is sea, weight is 501361, fraction is 0.001003 
+49 :It's fish. Name is vfnccetd Area is lake, weight is 804308, fraction is 0.001028 
+50 :It's fish. Name is bwx Area is sea, weight is 290435, fraction is 0.001064 
+51 :It's beast. Name is o Meal is predator, weight is 88403, fraction is 0.001075 
+52 :It's beast. Name is jpwpj Meal is predator, weight is 507298, fraction is 0.001078 
+53 :It's beast. Name is qxp Meal is herbivores, weight is 304892, fraction is 0.001092 
+54 :It's fish. Name is lmcdme Area is sea, weight is 552742, fraction is 0.001093 
+55 :It's beast. Name is py Meal is insectivores, weight is 197691, fraction is 0.001108 
+56 :It's a bird. Name is ufdlpiu, has ability migrate, weight is 657182, fraction is 0.001128 
+57 :It's beast. Name is uuukdsyix Meal is predator, weight is 895142, fraction is 0.001138 
+58 :It's fish. Name is gmajsbpfo Area is sea, weight is 786042, fraction is 0.001192 
+59 :It's beast. Name is qwuaotapw Meal is predator, weight is 835961, fraction is 0.001197 
+60 :It's fish. Name is jo Area is sea, weight is 145989, fraction is 0.001281 
+61 :It's fish. Name is vrcc Area is lake, weight is 312054, fraction is 0.001295 
+62 :It's beast. Name is vcxjjti Meal is predator, weight is 564160, fraction is 0.001358 
+63 :It's beast. Name is wcq Meal is herbivores, weight is 218081, fraction is 0.001463 
+64 :It's beast. Name is cva Meal is predator, weight is 196694, fraction is 0.001535 
+65 :It's beast. Name is baiqypy Meal is herbivores, weight is 494706, fraction is 0.001542 
+66 :It's fish. Name is tdnsyn Area is river, weight is 395983, fraction is 0.001641 
+67 :It's fish. Name is lhyw Area is river, weight is 242664, fraction is 0.001756 
+68 :It's a bird. Name is ccyyhbweyd, hasn't ability migrate, weight is 584241, fraction is 0.001830 
+69 :It's fish. Name is dcsxiuweiv Area is river, weight is 558615, fraction is 0.001942 
+70 :It's fish. Name is ijf Area is lake, weight is 146310, fraction is 0.001948 
+71 :It's fish. Name is ikbw Area is sea, weight is 181120, fraction is 0.002225 
+72 :It's a bird. Name is ncycokwy, has ability migrate, weight is 366301, fraction is 0.002372 
+73 :It's fish. Name is bdivsyucc Area is lake, weight is 392662, fraction is 0.002435 
+74 :It's fish. Name is ciriqryjeo Area is river, weight is 423624, fraction is 0.002538 
+75 :It's beast. Name is gmftblfblk Meal is herbivores, weight is 373405, fraction is 0.002815 
+76 :It's fish. Name is kxrbkatcwm Area is river, weight is 374443, fraction is 0.002863 
+77 :It's beast. Name is mutwvdcfl Meal is predator, weight is 309889, fraction is 0.003188 
+78 :It's fish. Name is nafikyuxks Area is lake, weight is 335526, fraction is 0.003240 
+79 :It's fish. Name is lghpcbvif Area is river, weight is 277802, fraction is 0.003359 
+80 :It's beast. Name is od Meal is predator, weight is 57956, fraction is 0.003399 
+81 :It's a bird. Name is fajqioeukq, has ability migrate, weight is 305544, fraction is 0.003463 
+82 :It's fish. Name is awoqufalo Area is sea, weight is 273483, fraction is 0.003507 
+83 :It's a bird. Name is gthrdbx, hasn't ability migrate, weight is 206637, fraction is 0.003557 
+84 :It's fish. Name is owm Area is sea, weight is 79346, fraction is 0.003920 
+85 :It's beast. Name is wgyaypjqa Meal is insectivores, weight is 244613, fraction is 0.004043 
+86 :It's beast. Name is knfqfv Meal is herbivores, weight is 158019, fraction is 0.004088 
+87 :It's beast. Name is fgehdxhfrx Meal is predator, weight is 215481, fraction is 0.004966 
+88 :It's a bird. Name is uygwllbp, has ability migrate, weight is 170739, fraction is 0.005084 
+89 :It's fish. Name is gnsjlmfto Area is sea, weight is 189277, fraction is 0.005093 
+90 :It's fish. Name is cwucok Area is river, weight is 121206, fraction is 0.005198 
+91 :It's fish. Name is rncecxqm Area is sea, weight is 146744, fraction is 0.005772 
+92 :It's beast. Name is nbhmnckw Meal is predator, weight is 134979, fraction is 0.006327 
+93 :It's beast. Name is fjrqfs Meal is insectivores, weight is 99179, fraction is 0.006513 
+94 :It's a bird. Name is etbo, hasn't ability migrate, weight is 60668, fraction is 0.006593 
+95 :It's a bird. Name is tkopbdl, has ability migrate, weight is 85862, fraction is 0.008525 
+96 :It's a bird. Name is hiojsubxmf, has ability migrate, weight is 108865, fraction is 0.009856 
+97 :It's fish. Name is vjwocbdogx Area is sea, weight is 81840, fraction is 0.013087 
+98 :It's beast. Name is gqnnu Meal is insectivores, weight is 25658, fraction is 0.021241 
+99 :It's fish. Name is aevxvietw Area is sea, weight is 37365, fraction is 0.026201 
+100 :It's beast. Name is nurrpwqo Meal is herbivores, weight is 11361, fraction is 0.079923 

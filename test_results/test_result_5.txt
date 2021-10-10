@@ -1,0 +1,7 @@
+Sorted container: 
+Container contains 5 elements.
+1 :It's beast. Name is ut Meal is predator, weight is 922914, fraction is 0.000237 
+2 :It's beast. Name is og Meal is insectivores, weight is 213593, fraction is 0.000936 
+3 :It's a bird. Name is uqqybjxp, hasn't ability migrate, weight is 626525, fraction is 0.001408 
+4 :It's beast. Name is ugtsfjtjo Meal is predator, weight is 71310, fraction is 0.013911 
+5 :It's a bird. Name is sltmoa, has ability migrate, weight is 31289, fraction is 0.020263 
